@@ -5,7 +5,7 @@ import SearchIcon from './search.svg';
 import axios from 'axios';
 
 
-const API_URL = 'http://www.omdbapi.com/?apikey=975bd47a';
+const API_URL = 'https://www.omdbapi.com/?apikey=975bd47a';
 
 
 const App =() => {
